@@ -128,3 +128,13 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
+.tabcontent-row{
+    margin-right: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #aa0d0d;
+}
+.tabcontent-col-1{
+    content: '';
+    justify-content: right;
+}
