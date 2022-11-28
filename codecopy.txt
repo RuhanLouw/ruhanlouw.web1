@@ -1,4 +1,4 @@
-                            <li>ZF assembles the front and rear axials for the Mercedes C-class Plant in East London.</li>
-                            <li>Quality control cameras PLC panel and HMI. I gained experience with Siemens TIA.</li>
-                            <li>I was further tasked with stock taking, analysing station times, and gained knowledge on managing production and assembly lines of a plant. Working under an industrial engineer, I learned the value of thorough planning while designing the axial assembly line for the new W206 Mercedes C-class.</li>
-                            <li>For my final task we repaired a 20t press responsible for fitting the bushings into the axial.</li>
+ZF assembles the front and rear axials for the Mercedes C-class Plant in East London.
+Quality control cameras PLC panel and HMI. I gained experience with Siemens TIA.
+I was further tasked with stock taking, analysing station times, and gained knowledge on managing production and assembly lines of a plant. Working under an industrial engineer, I learned the value of thorough planning while designing the axial assembly line for the new W206 Mercedes C-class.
+For my final task we repaired a 20t press responsible for fitting the bushings into the axial.

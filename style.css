@@ -92,7 +92,7 @@ nav ul li a:hover::after{
 }
 .tab-titles{
     display: flex;
-    margin: 20px 0 40px;
+    margin: 20px 0 30px;
 }
 .tab-links{
     margin-right: 50px;
@@ -116,7 +116,7 @@ nav ul li a:hover::after{
 }
 .tab-contents ul li{
     list-style: none;
-    margin: 10px 0;
+    margin: 5px 0;
 }
 .tab-contents ul li span{
     color: #b54769;
@@ -129,12 +129,26 @@ nav ul li a:hover::after{
     display: block;
 }
 .tabcontent-row{
-    margin-right: 20%;
+    margin-right: 0%;
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
-    background-color: #aa0d0d;
+    /*background-color: #aa0d0d;*/
 }
 .tabcontent-col-1{
-    content: '';
-    justify-content: right;
+    flex-basis: 58%;
+    /* background-color: #0daa3f81; */
+}
+.tabcontent-col-2{
+    list-style: circle;
+    flex-basis: 40%;
+    /* background-color: #220daa; */
+}
+
+.exp-list ul li{
+    list-style: circle;
+    margin-left: 6%;
+    border-left-color: #fff;
+    /* background-color: aquamarine; */
+
 }
