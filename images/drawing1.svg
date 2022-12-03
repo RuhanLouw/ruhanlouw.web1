@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="65.69268mm"
-   height="14.619614mm"
-   viewBox="0 0 65.692676 14.619619"
+   width="15.47504mm"
+   height="15.56471mm"
+   viewBox="0 0 15.475037 15.564714"
    version="1.1"
    id="svg46740"
    sodipodi:docname="drawing1.svg"
-   inkscape:export-filename="C:\Users\Ruhan Louw\source\p-web\images\drawing1.png"
+   inkscape:export-filename="C:\Users\Ruhan Louw\source\p-web\images\x_icon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
@@ -28,8 +28,8 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.2875732"
-     inkscape:cx="114.94492"
-     inkscape:cy="40.386053"
+     inkscape:cx="28.347903"
+     inkscape:cy="36.502779"
      inkscape:window-width="1360"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -59,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3.1507258,-4.6876293)">
+     transform="translate(-25.960109,-5.7150787)">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -67,22 +67,13 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect56778);fill:#000000;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,0.29060665,0)"
+       transform="matrix(0.24548737,0,0,0.2273941,25.155824,3.1247614)"
        id="text99333"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect99335);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="3.8828125"
          y="72.003509"
-         id="tspan12335"><tspan
+         id="tspan2157"><tspan
            style="font-size:74.6667px;fill:#ff004f"
-           id="tspan12331">R</tspan><tspan
-           style="fill:#ffffff"
-           id="tspan12333">uhan</tspan></tspan></text>
-    <ellipse
-       style="fill:#ff004f;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       id="path130791"
-       cx="66.788506"
-       cy="17.090034"
-       rx="2.0548992"
-       ry="1.9521544" />
+           id="tspan2155">R</tspan></tspan></text>
   </g>
 </svg>

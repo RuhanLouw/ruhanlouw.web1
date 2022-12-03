@@ -2,3 +2,24 @@ ZF assembles the front and rear axials for the Mercedes C-class Plant in East Lo
 Quality control cameras PLC panel and HMI. I gained experience with Siemens TIA.
 I was further tasked with stock taking, analysing station times, and gained knowledge on managing production and assembly lines of a plant. Working under an industrial engineer, I learned the value of thorough planning while designing the axial assembly line for the new W206 Mercedes C-class.
 For my final task we repaired a 20t press responsible for fitting the bushings into the axial.
+
+<div class="edu-row">
+    <div class="edu-school">
+        <ul>
+            <li class="edu-title">
+                <p>High School<br>Grens High School</p>
+            </li>
+            <li style="font-size: 14px;">2014 - 2018</li>
+        </ul>
+    </div>
+    <div class="edu-uni">
+        <ul>
+            <li class="edu-title"><p>University</p>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+Grens High School
