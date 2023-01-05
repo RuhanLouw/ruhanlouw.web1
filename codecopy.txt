@@ -23,3 +23,101 @@ For my final task we repaired a 20t press responsible for fitting the bushings i
 
 
 Grens High School
+
+
+//new
+//experience
+    <ul>
+        <li><span><b>Vacation work and Training</b><br>2021, 2022</span></li>
+        <div class="tabcontent-row">
+            <div class="tabcontent-exp-col-1" >
+                <ul>
+                    <li><b>ZF Lemförder (Pty) Ltd. EL Plant</b></li>
+                    <li>ZF East-London assembles the front and rear axials for the Mercedes C-class Plant. I was introduced to general plant mangement and various measuring systems and sensors used on an assembly line.</li>
+                    
+                </ul>
+            </div>
+            <div class="tabcontent-exp-col-2" >
+                <div class="exp-list">
+                    <ul>
+                        <li>Siemens PLC, HMI, TIA</li>
+                        <li>Quality Control cameras</li>
+                        <li>Workstation Analysis</li>
+                        <li>20-ton Bush Press maintenance</li>
+                    </ul>
+                </div>
+            </div>
+            <ul>
+                <li style="padding-top: 10px;">Fault finding Quality control cameras, PLC panel and HMI, I gained experience with Siemens TIA. I was further tasked with stock taking, analysing station times, and gained knowledge on managing production and assembly lines of a plant. Working under an industrial engineer, I learned the value of thorough planning while assisting the design of the axial assembly line for the new W206 Mercedes C-class. For my final task we repaired a 20t press responsible for fitting the bushings into the axial.</li>
+            </ul>
+        </div>
+        <ul>
+            <li><span>2019</span><br><b>Mechatronics Engineering Solutions</b>
+                <li>I gained some experience in Electrical work,
+                    connecting and disconnecting panels for the robots. I was also
+                    introduced to PLC programming and timing operations of the
+                    robots.</li>
+            </li>
+        </ul>
+    </ul>
+//education
+    <div class="edu-row">
+        <div class="edu-col left">
+            <ul>
+                <li><span><b>High School</b></span></li>
+                <li>Grens High School<br>East London, Eastern Cape, SA<br>2014-2018</li>
+                <li>Passed with 4 distinctions<br>IEB Advanced Program Mathematics</li>
+            </ul>
+                
+        </div>
+        <div class="edu-col right">
+            <ul>
+                <li><span><b>University</b></span></li>
+            </ul>
+        </div>
+    </div>
+
+//css 
+    .tabcontent-row{
+        margin-right: 0%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        /*background-color: #aa0d0d;*/
+    }
+    .tabcontent-exp-col-1{
+        flex-basis: 58%;
+        /* background-color: #0daa3f81; */
+    }
+    .tabcontent-exp-col-2{
+        border-radius: 10px;
+        border: 2px solid #b54769;
+        list-style: circle;
+        flex-basis: 40%;
+        /* background-color: #220daa; */
+    }
+
+    /* Education Row */
+    .exp-list ul li{
+        list-style: circle;
+        margin-left: 10%;
+        border-left-color: #fff;
+        /* background-color: aquamarine; */
+    }
+    .edu-col{
+        float: left;
+        width: 50%;
+    }
+    .edu-col h4{
+        color: #b54769;
+    }
+
+    .edu-col li{
+        padding-top: 0px;
+    }
+
+    .edu-row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
